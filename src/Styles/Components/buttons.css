@@ -1,0 +1,9 @@
+.log {
+  margin-right: 15px;
+}
+
+@media (max-width: 992px) {
+  .log {
+    margin: 10px 10px 0 10px;
+  }
+}

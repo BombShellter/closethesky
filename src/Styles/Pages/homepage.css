@@ -1,0 +1,12 @@
+.homepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  margin: 20px 0;
+  font-weight: 700;
+  font-size: 24px;
+}
