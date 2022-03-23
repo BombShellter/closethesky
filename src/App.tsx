@@ -1,7 +1,8 @@
 import React from "react";
+import TestComponent from "./Components/TestComponent";
 
 function App() {
-  return <div className="App">Hello world</div>;
+  return <TestComponent/>;
 }
 
 export default App;
