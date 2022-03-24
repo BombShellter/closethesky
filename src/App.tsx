@@ -1,11 +1,11 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./Styles/main.css";
-import NavBar from "./Components/NavBar";
+import "./main.css";
+import NavBar from "./Components/NawBar/NavBar";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Homepage from "./Pages/Homepage";
-import Shelters from "./Pages/Shelters";
-import Rules from "./Pages/Rules";
+import Homepage from "./Pages/Homepage/Homepage";
+import Shelters from "./Pages/Shelters/Shelters";
+import Rules from "./Pages/Rules/Rules";
 
 function App() {
   return (

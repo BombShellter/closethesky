@@ -1,5 +1,5 @@
-@import "./Components/buttons.css";
-@import "./Pages/homepage.css";
+@import "./Components/NawBar/NavBar.css";
+@import "./Pages/Homepage/Homepage.css";
 
 /* Указываем box sizing */
 *,
