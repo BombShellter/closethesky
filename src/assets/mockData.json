@@ -1,0 +1,1775 @@
+[
+  {
+    "shelter_id": 1,
+    "shelter_number": "64005",
+    "adress": "м. Рівне, вул. В’ячеслава Чорновола, 43",
+    "shelter_limit": "100",
+    "shelter_year": "1961",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 2,
+    "shelter_number": "64010",
+    "adress": "м. Рівне, вул. Базарна, 8",
+    "shelter_limit": "100",
+    "shelter_year": "1961",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 3,
+    "shelter_number": "64011",
+    "adress": "м. Рівне, вул. Сагайдачного, 4",
+    "shelter_limit": "100",
+    "shelter_year": "1957",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 4,
+    "shelter_number": "64014",
+    "adress": "м. Рівне, вул. Соборна, 57",
+    "shelter_limit": "140",
+    "shelter_year": "1958",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 5,
+    "shelter_number": "64016",
+    "adress": "м. Рівне, вул. Пересопницька, 93",
+    "shelter_limit": "140",
+    "shelter_year": "1959",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 6,
+    "shelter_number": "64017",
+    "adress": "м. Рівне, вул. Видумка, 26",
+    "shelter_limit": "120",
+    "shelter_year": "1952",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 7,
+    "shelter_number": "64020",
+    "adress": "м. Рівне, вул. Соборна, 135",
+    "shelter_limit": "130",
+    "shelter_year": "1959",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 8,
+    "shelter_number": "64021",
+    "adress": "м. Рівне, вул. Калнишевського, 29",
+    "shelter_limit": "100",
+    "shelter_year": "1959",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 9,
+    "shelter_number": "64022",
+    "adress": "м. Рівне, вул. Соборна, 61",
+    "shelter_limit": "80",
+    "shelter_year": "1957",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 10,
+    "shelter_number": "64026",
+    "adress": "м. Рівне, вул. Київська, 15",
+    "shelter_limit": "100",
+    "shelter_year": "1956",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 11,
+    "shelter_number": "64028",
+    "adress": "м. Рівне, вул. Соборна, 5",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 12,
+    "shelter_number": "64029",
+    "adress": "м. Рівне, вул. Соборна, 1",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 13,
+    "shelter_number": "64038",
+    "adress": "м. Рівне, вул. Литовська, 53",
+    "shelter_limit": "100",
+    "shelter_year": "1955",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 14,
+    "shelter_number": "64046",
+    "adress": "м. Рівне, вул. Ніла Хасевича, 1",
+    "shelter_limit": "90",
+    "shelter_year": "1953",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 15,
+    "shelter_number": "64062",
+    "adress": "м. Рівне, вул. Симона Петлюри, 35",
+    "shelter_limit": "70",
+    "shelter_year": "1976",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 16,
+    "shelter_number": "66778",
+    "adress": "м. Рівне, вул. Дубенська, 35",
+    "shelter_limit": "400",
+    "shelter_year": "1972",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 17,
+    "shelter_number": "66780",
+    "adress": "м. Рівне, вул. Київська, 78д",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 18,
+    "shelter_number": "66875",
+    "adress": "м. Рівне, вул. Князя Володимира, 71",
+    "shelter_limit": "300",
+    "shelter_year": "1988",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 19,
+    "shelter_number": "66876",
+    "adress": "м. Рівне, вул. Гурія Бухала, 3",
+    "shelter_limit": "350",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 20,
+    "shelter_number": "66878",
+    "adress": "м. Рівне, вул. Драганчука, 9",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 21,
+    "shelter_number": "66879",
+    "adress": "м. Рівне, вул. Відінська, 40а",
+    "shelter_limit": "300",
+    "shelter_year": "1986",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 22,
+    "shelter_number": "66880",
+    "adress": "м. Рівне, вул. Макарова, 48",
+    "shelter_limit": "2000",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 23,
+    "shelter_number": "66890",
+    "adress": "м. Рівне, вул. Коновальця, 17",
+    "shelter_limit": "2500",
+    "shelter_year": "1987",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 24,
+    "shelter_number": "66891",
+    "adress": "м. Рівне, вул. Павлюченко, 24",
+    "shelter_limit": "2000",
+    "shelter_year": "1989",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 25,
+    "shelter_number": "66897",
+    "adress": "м. Рівне, вул. Соборна, 12а",
+    "shelter_limit": "150",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 26,
+    "shelter_number": "66898",
+    "adress": "м. Рівне, вул. Дубенська, 46Б",
+    "shelter_limit": "350",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 27,
+    "shelter_number": "66901",
+    "adress": "м. Рівне, вул. Курчатова, 3",
+    "shelter_limit": "100",
+    "shelter_year": "1980",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 28,
+    "shelter_number": "66902",
+    "adress": "м. Рівне, вул. Островського, 13а",
+    "shelter_limit": "640",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 29,
+    "shelter_number": "66903",
+    "adress": "м. Рівне, вул. Волинської Дивізії, 13",
+    "shelter_limit": "720",
+    "shelter_year": "1981",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 30,
+    "shelter_number": "66904",
+    "adress": "м. Рівне, вул. Дубенська, 133",
+    "shelter_limit": "2015",
+    "shelter_year": "1991",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 31,
+    "shelter_number": "66905",
+    "adress": "м. Рівне, вул. Коперніка, 14",
+    "shelter_limit": "100",
+    "shelter_year": "1991",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 32,
+    "shelter_number": "66912",
+    "adress": "м. Рівне, вул. Замкова, 31",
+    "shelter_limit": "50",
+    "shelter_year": "1989",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 33,
+    "shelter_number": "66914",
+    "adress": "м. Рівне, вул. Дорошенка, 55а",
+    "shelter_limit": "100",
+    "shelter_year": "1993",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 34,
+    "shelter_number": "66915",
+    "adress": "м. Рівне, вул. Київська, 12",
+    "shelter_limit": "150",
+    "shelter_year": "1981",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 35,
+    "shelter_number": "66916",
+    "adress": "м. Рівне, вул. Макарова, 42",
+    "shelter_limit": "600",
+    "shelter_year": "1990",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 36,
+    "shelter_number": "66917",
+    "adress": "м. Рівне, вул. Князя Острозького, 14",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 37,
+    "shelter_number": "66918",
+    "adress": "м. Рівне, пр.-т Князя Романа, 8",
+    "shelter_limit": "1000",
+    "shelter_year": "1985",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 38,
+    "shelter_number": "66919",
+    "adress": "м. Рівне, вул.16 липня, 38",
+    "shelter_limit": "450",
+    "shelter_year": "1992",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 39,
+    "shelter_number": "66920",
+    "adress": "м. Рівне, вул. Будівельників, 7",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 40,
+    "shelter_number": "66921",
+    "adress": "м. Рівне, вул. Фабрична, 4",
+    "shelter_limit": "200",
+    "shelter_year": "1993",
+    "status": "готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 41,
+    "shelter_number": "66922",
+    "adress": "м. Рівне, вул. Ковалевської, 17",
+    "shelter_limit": "1300",
+    "shelter_year": "1993",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 42,
+    "shelter_number": "66924",
+    "adress": "м. Рівне, вул. Небесної Сотні, 24",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 43,
+    "shelter_number": "66925",
+    "adress": "м. Рівне, вул. Євгена Коновальця, 19",
+    "shelter_limit": "1800",
+    "shelter_year": "1993",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 44,
+    "shelter_number": "66927",
+    "adress": "м. Рівне, вул. Княгині Ольги, 13",
+    "shelter_limit": "250",
+    "shelter_year": "1969",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 45,
+    "shelter_number": "66928",
+    "adress": "м. Рівне, вул. Костромська, 25",
+    "shelter_limit": "300",
+    "shelter_year": "1996",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 46,
+    "shelter_number": "66929",
+    "adress": "м. Рівне, вул. Князя Володимира, 112а",
+    "shelter_limit": "150",
+    "shelter_year": "1975",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 47,
+    "shelter_number": "66930",
+    "adress": "м. Рівне, вул. Костромська, 25А",
+    "shelter_limit": "100",
+    "shelter_year": "1996",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 48,
+    "shelter_number": "67750",
+    "adress": "м. Рівне, вул. Біла, 16",
+    "shelter_limit": "500",
+    "shelter_year": "1977",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 49,
+    "shelter_number": "67752",
+    "adress": "м. Рівне, вул. Соборна, 442г (444а)",
+    "shelter_limit": "150",
+    "shelter_year": "1977",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 50,
+    "shelter_number": "67753",
+    "adress": "м. Рівне, вул. Відінська, 35",
+    "shelter_limit": "1000",
+    "shelter_year": "1978",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 51,
+    "shelter_number": "67754",
+    "adress": "м. Рівне, вул. Відінська 5",
+    "shelter_limit": "220",
+    "shelter_year": "1978",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 52,
+    "shelter_number": "67755",
+    "adress": "с. Велика Омеляна, вул. Авіаторів, 1а",
+    "shelter_limit": "300",
+    "shelter_year": "1978",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 53,
+    "shelter_number": "67760",
+    "adress": "м. Рівне, вул. Хасевича, 1",
+    "shelter_limit": "80",
+    "shelter_year": "1978",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 54,
+    "shelter_number": "67761",
+    "adress": "м. Рівне, вул. Степана Бандери, 69",
+    "shelter_limit": "250",
+    "shelter_year": "1978",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 55,
+    "shelter_number": "67762",
+    "adress": "м. Рівне, вул. Київська, 77",
+    "shelter_limit": "300",
+    "shelter_year": "2000",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 56,
+    "shelter_number": "67766",
+    "adress": "м. Рівне, вул. Млинівська, 22а",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 57,
+    "shelter_number": "67770",
+    "adress": "м. Рівне, вул. Мірющенка, 25а",
+    "shelter_limit": "30",
+    "shelter_year": "1982",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 58,
+    "shelter_number": "67771",
+    "adress": "м. Рівне, вул. Тувинських Добровольців, 8",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 59,
+    "shelter_number": "67772",
+    "adress": "м. Рівне, м-н Незалежності, 3",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 60,
+    "shelter_number": "67774",
+    "adress": "м. Рівне, вул. Поштова, 11",
+    "shelter_limit": "40",
+    "shelter_year": "1982",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 61,
+    "shelter_number": "67775",
+    "adress": "м. Рівне, вул. Соборна, 187",
+    "shelter_limit": "30",
+    "shelter_year": "1982",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 62,
+    "shelter_number": "67776",
+    "adress": "м. Рівне, вул. Макарова, 3",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 63,
+    "shelter_number": "67777",
+    "adress": "м. Рівне, вул. Соборна, 404б",
+    "shelter_limit": "150",
+    "shelter_year": "2000",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 64,
+    "shelter_number": "67778",
+    "adress": "м. Рівне, вул. Директорії, 5",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 65,
+    "shelter_number": "67779",
+    "adress": "м. Рівне, вул. Соборна, 15",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 66,
+    "shelter_number": "67781",
+    "adress": "м. Рівне, вул. Данила Галицького, 31",
+    "shelter_limit": "350",
+    "shelter_year": "1978",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 67,
+    "shelter_number": "67783",
+    "adress": "м. Рівне, вул. Гетьмана Мазепи, 19",
+    "shelter_limit": "100",
+    "shelter_year": "1986",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 68,
+    "shelter_number": "67786",
+    "adress": "м. Рівне, вул. Відінська, 2",
+    "shelter_limit": "350",
+    "shelter_year": "1978",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 69,
+    "shelter_number": "67787",
+    "adress": "м. Рівне, вул. Хмільна, 40",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 70,
+    "shelter_number": "67788",
+    "adress": "м. Рівне, вул. Словацького, 1",
+    "shelter_limit": "140",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 71,
+    "shelter_number": "67789",
+    "adress": "м. Рівне, вул. Князя Володимира, 17",
+    "shelter_limit": "60",
+    "shelter_year": "1983",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 72,
+    "shelter_number": "67790",
+    "adress": "м. Рівне, вул. Чорновола, 79",
+    "shelter_limit": "310",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 73,
+    "shelter_number": "67791",
+    "adress": "м. Рівне, вул. Котляревського, 3",
+    "shelter_limit": "80",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 74,
+    "shelter_number": "67793",
+    "adress": "м. Рівне, бул. Богдана Хмельницького, 3",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 75,
+    "shelter_number": "67797",
+    "adress": "м. Рівне, вул. Соломії Крушельницької, 62а",
+    "shelter_limit": "600",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 76,
+    "shelter_number": "67798",
+    "adress": "м. Рівне, пл. Театральна, 1",
+    "shelter_limit": "800",
+    "shelter_year": "1982",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 77,
+    "shelter_number": "67801",
+    "adress": "м. Рівне, вул. Степана Бандери, 67б",
+    "shelter_limit": "50",
+    "shelter_year": "1993",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 78,
+    "shelter_number": "67802",
+    "adress": "м. Рівне, вул. Соборна, 17",
+    "shelter_limit": "150",
+    "shelter_year": "1994",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 79,
+    "shelter_number": "67803",
+    "adress": "м. Рівне, п-т Князя Романа, 13",
+    "shelter_limit": "150",
+    "shelter_year": "1967",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 80,
+    "shelter_number": "67804",
+    "adress": "м. Рівне, Проспект Миру, 10",
+    "shelter_limit": "25",
+    "shelter_year": "1983",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 81,
+    "shelter_number": "67805",
+    "adress": "м. Рівне, вул. Чорновола, 1",
+    "shelter_limit": "120",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 82,
+    "shelter_number": "67807",
+    "adress": "м. Рівне, вул. Чорновола, 13",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 83,
+    "shelter_number": "67808",
+    "adress": "м. Рівне, вул. Курчатова, 2/1",
+    "shelter_limit": "400",
+    "shelter_year": "1997",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 84,
+    "shelter_number": "67809",
+    "adress": "м. Рівне, вул. Замкова, 29",
+    "shelter_limit": "120",
+    "shelter_year": "1981",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 85,
+    "shelter_number": "67810",
+    "adress": "м. Рівне, вул. Пластова, 5 (Остафова)",
+    "shelter_limit": "100",
+    "shelter_year": "198",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 86,
+    "shelter_number": "67812",
+    "adress": "м. Рівне, вул. Симона Петлюри, 17",
+    "shelter_limit": "100",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 87,
+    "shelter_number": "67813",
+    "adress": "м. Рівне, вул. Остафова, 29а",
+    "shelter_limit": "830",
+    "shelter_year": "1984",
+    "status": "Готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 88,
+    "shelter_number": "67814",
+    "adress": "м. Рівне, вул. Симона Петлюри, 35",
+    "shelter_limit": "200",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 89,
+    "shelter_number": "67815",
+    "adress": "м. Рівне, вул. Соборна, 438",
+    "shelter_limit": "300",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 90,
+    "shelter_number": "67817",
+    "adress": "м. Рівне, вул. Набережна, 22",
+    "shelter_limit": "200",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 91,
+    "shelter_number": "67818",
+    "adress": "м. Рівне, вул. Гагаріна, 14",
+    "shelter_limit": "400",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 92,
+    "shelter_number": "67819",
+    "adress": "м. Рівне, вул. Біла, 105а",
+    "shelter_limit": "400",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 93,
+    "shelter_number": "67820",
+    "adress": "м. Рівне, вул. Міцкевича, 40",
+    "shelter_limit": "300",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 94,
+    "shelter_number": "67822",
+    "adress": "м. Рівне, вул. Князя Романа, 1",
+    "shelter_limit": "540",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 95,
+    "shelter_number": "67823",
+    "adress": "м. Рівне, вул. Мазепи, 20",
+    "shelter_limit": "120",
+    "shelter_year": "1983",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 96,
+    "shelter_number": "67824",
+    "adress": "м. Рівне, вул. Князя Романа, 12",
+    "shelter_limit": "450",
+    "shelter_year": "2000",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 97,
+    "shelter_number": "67826",
+    "adress": "м. Рівне, пр-к Робітничий, 4",
+    "shelter_limit": "800",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 98,
+    "shelter_number": "67828",
+    "adress": "м. Рівне, вул. Фабрична, 7",
+    "shelter_limit": "1300",
+    "shelter_year": "1985",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 99,
+    "shelter_number": "67829",
+    "adress": "м. Рівне, вул. Гагаріна, 29",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 100,
+    "shelter_number": "67830",
+    "adress": "м. Рівне, вул. Небесної Сотні, 66",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 101,
+    "shelter_number": "67831",
+    "adress": "м. Рівне, вул. Степана Бандери, 58",
+    "shelter_limit": "200",
+    "shelter_year": "1967",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 102,
+    "shelter_number": "67837",
+    "adress": "м. Рівне, вул. Курчатова, 6",
+    "shelter_limit": "700",
+    "shelter_year": "1986",
+    "status": "Не готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 103,
+    "shelter_number": "67839",
+    "adress": "м. Рівне, вул. Макарова, 40а",
+    "shelter_limit": "215",
+    "shelter_year": "1987",
+    "status": "Обмежено готова",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 104,
+    "shelter_number": "67840",
+    "adress": "м. Рівне, вул. Корольова, 4а",
+    "shelter_limit": "215",
+    "shelter_year": "1987",
+    "status": "",
+    "type_shelter": "Протирадіаційні укриття"
+  },
+  {
+    "shelter_id": 105,
+    "shelter_number": "64001",
+    "adress": "м. Рівне, вул. Чорновола, 89а",
+    "shelter_limit": "150",
+    "shelter_year": "1974",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 106,
+    "shelter_number": "64002",
+    "adress": "м. Рівне, вул. Соборна, 56",
+    "shelter_limit": "150",
+    "shelter_year": "1952",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 107,
+    "shelter_number": "64003",
+    "adress": "м. Рівне, вул. Курчатова, 60",
+    "shelter_limit": "150",
+    "shelter_year": "1975",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 108,
+    "shelter_number": "64004",
+    "adress": "м. Рівне, вул. Київська, 92в",
+    "shelter_limit": "300",
+    "shelter_year": "1975",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 109,
+    "shelter_number": "64006",
+    "adress": "м. Рівне, вул. Соборна, 185",
+    "shelter_limit": "100",
+    "shelter_year": "1959",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 110,
+    "shelter_number": "64007",
+    "adress": "м. Рівне, вул. Соборна, 11",
+    "shelter_limit": "200",
+    "shelter_year": "1959",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 111,
+    "shelter_number": "64008",
+    "adress": "м. Рівне, вул. Данила Галицького, 23",
+    "shelter_limit": "150",
+    "shelter_year": "1964",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 112,
+    "shelter_number": "64009",
+    "adress": "м. Рівне,вул. Симона Петлюри,10",
+    "shelter_limit": "50",
+    "shelter_year": "1961",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 113,
+    "shelter_number": "64013",
+    "adress": "м. Рівне,вул. Соборна,3",
+    "shelter_limit": "100",
+    "shelter_year": "1955",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 114,
+    "shelter_number": "64019",
+    "adress": "м. Рівне,вул. Соборна,190",
+    "shelter_limit": "120",
+    "shelter_year": "1951",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 115,
+    "shelter_number": "64025",
+    "adress": "м. Рівне, вул. Степана Бандери,12",
+    "shelter_limit": "140",
+    "shelter_year": "1955",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 116,
+    "shelter_number": "64027",
+    "adress": "м. Рівне, вул. Полуботка, 37",
+    "shelter_limit": "150",
+    "shelter_year": "1960",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 117,
+    "shelter_number": "64030",
+    "adress": "м. Рівне, вул. Фабрична,12",
+    "shelter_limit": "1000",
+    "shelter_year": "1972",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 118,
+    "shelter_number": "64031",
+    "adress": "м. Рівне, вул. Фабрична,12",
+    "shelter_limit": "1000",
+    "shelter_year": "1970",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 119,
+    "shelter_number": "64032",
+    "adress": "м. Рівне, вул. Фабрична, 12",
+    "shelter_limit": "1000",
+    "shelter_year": "1972",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 120,
+    "shelter_number": "64033",
+    "adress": "м. Рівне,вул. Фабрична, 2",
+    "shelter_limit": "450",
+    "shelter_year": "1973",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 121,
+    "shelter_number": "64039",
+    "adress": "м. Рівне, вул. Млинівська, 2",
+    "shelter_limit": "1200",
+    "shelter_year": "1973",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 122,
+    "shelter_number": "64040",
+    "adress": "м. Рівне-17",
+    "shelter_limit": "675",
+    "shelter_year": "1975",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 123,
+    "shelter_number": "64041",
+    "adress": "м. Рівне-17",
+    "shelter_limit": "675",
+    "shelter_year": "1975",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 124,
+    "shelter_number": "64043",
+    "adress": "м. Рівне, вул.16 Липня, 17",
+    "shelter_limit": "250",
+    "shelter_year": "1973",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 125,
+    "shelter_number": "64044",
+    "adress": "м. Рівне, вул. Будівельників, 1",
+    "shelter_limit": "300",
+    "shelter_year": "1975",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 126,
+    "shelter_number": "64054",
+    "adress": "м. Рівне, пр. Робітничий, 5",
+    "shelter_limit": "300",
+    "shelter_year": "1970",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 127,
+    "shelter_number": "64055",
+    "adress": "м. Рівне-17",
+    "shelter_limit": "600",
+    "shelter_year": "1976",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 128,
+    "shelter_number": "64056",
+    "adress": "м. Рівне, вул. Івана Вишневського,4а (Білякова)",
+    "shelter_limit": "150",
+    "shelter_year": "1976",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 129,
+    "shelter_number": "64057",
+    "adress": "м. Рівне,вул. Князя Володимира, 112",
+    "shelter_limit": "150",
+    "shelter_year": "1976",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 130,
+    "shelter_number": "64061",
+    "adress": "м. Рівне, вул. Пересопницька,58",
+    "shelter_limit": "148",
+    "shelter_year": "1959",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 131,
+    "shelter_number": "64064",
+    "adress": "м. Рівне, вул. Григорія Сковороди, 23",
+    "shelter_limit": "150",
+    "shelter_year": "1977",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 132,
+    "shelter_number": "64065",
+    "adress": "Рівненський р-н, с. Городок",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 133,
+    "shelter_number": "64066",
+    "adress": "м. Рівне, вул. Гагаріна,16",
+    "shelter_limit": "150",
+    "shelter_year": "1978",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 134,
+    "shelter_number": "64067",
+    "adress": "м. Рівне, вул. Вінницька, 60",
+    "shelter_limit": "150",
+    "shelter_year": "1977",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 135,
+    "shelter_number": "64068",
+    "adress": "м. Рівне, вул. Курчатова,18",
+    "shelter_limit": "200",
+    "shelter_year": "1977",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 136,
+    "shelter_number": "64070",
+    "adress": "м. Рівне,вул. Князя Володимира, 82(89)а",
+    "shelter_limit": "150",
+    "shelter_year": "1974",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 137,
+    "shelter_number": "64071",
+    "adress": "м. Рівне, вул. Драгоманова, 9",
+    "shelter_limit": "160",
+    "shelter_year": "1958",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 138,
+    "shelter_number": "64072",
+    "adress": "м. Рівне, вул. 24 серпня, 2",
+    "shelter_limit": "120",
+    "shelter_year": "1979",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 139,
+    "shelter_number": "64074",
+    "adress": "м. Рівне, вул. Гагаріна, 39",
+    "shelter_limit": "1633",
+    "shelter_year": "1979",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 140,
+    "shelter_number": "64076",
+    "adress": "м. Рівне, вул. Петра Могили, 28",
+    "shelter_limit": "300",
+    "shelter_year": "1980",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 141,
+    "shelter_number": "64080",
+    "adress": "м. Рівне, вул. Біла, 35",
+    "shelter_limit": "200",
+    "shelter_year": "1980",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 142,
+    "shelter_number": "64081",
+    "adress": "м. Рівне, вул. Соборна, 404а",
+    "shelter_limit": "150",
+    "shelter_year": "1980",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 143,
+    "shelter_number": "64082",
+    "adress": "м. Рівне, вул. Соборна, 420",
+    "shelter_limit": "600",
+    "shelter_year": "1981",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 144,
+    "shelter_number": "64083",
+    "adress": "м. Рівне, вул. Грушевського, 11",
+    "shelter_limit": "100",
+    "shelter_year": "1981",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 145,
+    "shelter_number": "64086",
+    "adress": "м. Рівне, вул. Млинівська, 20",
+    "shelter_limit": "300",
+    "shelter_year": "1981",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 146,
+    "shelter_number": "64087",
+    "adress": "м. Рівне, вул. Кавказька, 15",
+    "shelter_limit": "300",
+    "shelter_year": "1982",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 147,
+    "shelter_number": "64088",
+    "adress": "м. Рівне, вул. Млинівська, 1",
+    "shelter_limit": "240",
+    "shelter_year": "1982",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 148,
+    "shelter_number": "64089",
+    "adress": "м. Рівне, вул. Котляревського, 20а",
+    "shelter_limit": "150",
+    "shelter_year": "1982",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 149,
+    "shelter_number": "64092",
+    "adress": "м. Рівне-17",
+    "shelter_limit": "700",
+    "shelter_year": "1982",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 150,
+    "shelter_number": "64094",
+    "adress": "м. Рівне, вул. Старицького, 21а",
+    "shelter_limit": "150",
+    "shelter_year": "1983",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 151,
+    "shelter_number": "64095",
+    "adress": "м. Рівне, вул. Дворецька, 120б",
+    "shelter_limit": "150",
+    "shelter_year": "1983",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 152,
+    "shelter_number": "64096",
+    "adress": "м Рівне, вул. Павлюченка, 35",
+    "shelter_limit": "50",
+    "shelter_year": "1983",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 153,
+    "shelter_number": "65004",
+    "adress": "м. Рівне, вул. Київська, 108(а)",
+    "shelter_limit": "200",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 154,
+    "shelter_number": "65005",
+    "adress": "м. Рівне, вул. Грушевського, 2а",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 155,
+    "shelter_number": "65006",
+    "adress": "м. Рівне, вул. Чернишова, 7",
+    "shelter_limit": "200",
+    "shelter_year": "1984",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 156,
+    "shelter_number": "65008",
+    "adress": "м. Рівне, вул. Боярка,40",
+    "shelter_limit": "50",
+    "shelter_year": "1984",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 157,
+    "shelter_number": "65012",
+    "adress": "Рівненський р-н, с. Велика Омеляна, вул. Авіаторів,5а",
+    "shelter_limit": "600",
+    "shelter_year": "1985",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 158,
+    "shelter_number": "65013",
+    "adress": "м. Рівне, вул. Чернишова, 9 / вул. Тувинських Добровольців,19",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 159,
+    "shelter_number": "65022",
+    "adress": "м. Рівне, вул. Соборна, 444а",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 160,
+    "shelter_number": "65023",
+    "adress": "м. Рівне, вул. Млинівська,18",
+    "shelter_limit": "100",
+    "shelter_year": "1985",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 161,
+    "shelter_number": "65024",
+    "adress": "м. Рівне, вул. Міцкевича, 2",
+    "shelter_limit": "450",
+    "shelter_year": "1985",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 162,
+    "shelter_number": "65025",
+    "adress": "м. Рівне,вул. Литовська, 55",
+    "shelter_limit": "360",
+    "shelter_year": "1985",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 163,
+    "shelter_number": "65030",
+    "adress": "м. Рівне, вул. Тувінських Добровольців, 19",
+    "shelter_limit": "150",
+    "shelter_year": "1986",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 164,
+    "shelter_number": "65031",
+    "adress": "м. Рівне, вул. Данила Галицького, 25",
+    "shelter_limit": "4000",
+    "shelter_year": "1986",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 165,
+    "shelter_number": "65033",
+    "adress": "м. Рівне,вул. Небесної Сотні,10",
+    "shelter_limit": "150",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 166,
+    "shelter_number": "65034",
+    "adress": "м. Рівне, вул. Шевченка, 3",
+    "shelter_limit": "450",
+    "shelter_year": "1986",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 167,
+    "shelter_number": "65035",
+    "adress": "м. Рівне, вул. Макарова, 3",
+    "shelter_limit": "400",
+    "shelter_year": "1987",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 168,
+    "shelter_number": "65036",
+    "adress": "м. Рівне, вул. Дворецька, 89",
+    "shelter_limit": "150",
+    "shelter_year": "1987",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 169,
+    "shelter_number": "65037",
+    "adress": "м. Рівне, вул. Котляревського, 13",
+    "shelter_limit": "100",
+    "shelter_year": "1987",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 170,
+    "shelter_number": "65038",
+    "adress": "м. Рівне, вул. Чорновола, 76а",
+    "shelter_limit": "600",
+    "shelter_year": "1987",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 171,
+    "shelter_number": "65042",
+    "adress": "м. Рівне-17",
+    "shelter_limit": "450",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 172,
+    "shelter_number": "65043",
+    "adress": "м. Рівне, вул. Яворницького, 34",
+    "shelter_limit": "100",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 173,
+    "shelter_number": "65044",
+    "adress": "м. Рівне, вул. Київська, 10",
+    "shelter_limit": "150",
+    "shelter_year": "1988",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 174,
+    "shelter_number": "65045",
+    "adress": "м. Рівне,вул. Князя Володимира, 112а",
+    "shelter_limit": "150",
+    "shelter_year": "1987",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 175,
+    "shelter_number": "65046",
+    "adress": "м. Рівне, вул. Біла, 53",
+    "shelter_limit": "150",
+    "shelter_year": "1988",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 176,
+    "shelter_number": "65047",
+    "adress": "м. Рівне, вул. Пушкіна, 4",
+    "shelter_limit": "450",
+    "shelter_year": "1988",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 177,
+    "shelter_number": "65048",
+    "adress": "м. Рівне, вул. Тувинських Добровольців,17",
+    "shelter_limit": "150",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 178,
+    "shelter_number": "65049",
+    "adress": "м. Рівне, вул. Ніла Хасевича, 39(1)",
+    "shelter_limit": "50",
+    "shelter_year": "1988",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 179,
+    "shelter_number": "65050",
+    "adress": "м. Рівне-21 (с. Городок)",
+    "shelter_limit": "1200",
+    "shelter_year": "1988",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 180,
+    "shelter_number": "65051",
+    "adress": "м. Рівне, вул. Грабник, 2",
+    "shelter_limit": "350",
+    "shelter_year": "1986",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 181,
+    "shelter_number": "65054",
+    "adress": "м. Рівне, вул. Макарова, 16",
+    "shelter_limit": "150",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 182,
+    "shelter_number": "65055",
+    "adress": "м. Рівне, вул. Київська, 78г",
+    "shelter_limit": "300",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 183,
+    "shelter_number": "65056",
+    "adress": "м. Рівне,вул. Млинівська,11",
+    "shelter_limit": "100",
+    "shelter_year": "1988",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 184,
+    "shelter_number": "65057",
+    "adress": "м. Рівне, вул. Вербова, 20",
+    "shelter_limit": "300",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 185,
+    "shelter_number": "65058",
+    "adress": "м. Рівне, вул. Дорошенка, 80б (84)",
+    "shelter_limit": "150",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 186,
+    "shelter_number": "65059",
+    "adress": "м. Рівне, вул. Соборна,195",
+    "shelter_limit": "100",
+    "shelter_year": "1989",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 187,
+    "shelter_number": "65060",
+    "adress": "м. Рівне, вул. Соборна, 364",
+    "shelter_limit": "250",
+    "shelter_year": "1988",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 188,
+    "shelter_number": "65063",
+    "adress": "м. Рівне, вул. Млинівська, 29",
+    "shelter_limit": "150",
+    "shelter_year": "1989",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 189,
+    "shelter_number": "65064",
+    "adress": "м. Рівне, вул. Орлова,37",
+    "shelter_limit": "50",
+    "shelter_year": "1993",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 190,
+    "shelter_number": "65065",
+    "adress": "м. Рівне,вул. Макарова,12",
+    "shelter_limit": "60",
+    "shelter_year": "1989",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 191,
+    "shelter_number": "65067",
+    "adress": "м. Рівне, вул. Медична, 7",
+    "shelter_limit": "400",
+    "shelter_year": "1990",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 192,
+    "shelter_number": "65068",
+    "adress": "м. Рівне, вул. Дворецька,106",
+    "shelter_limit": "300",
+    "shelter_year": "1989",
+    "status": "Обмежено готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 193,
+    "shelter_number": "65073",
+    "adress": "м. Рівне, вул. Макарова, 14",
+    "shelter_limit": "150",
+    "shelter_year": "1990",
+    "status": "Готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 194,
+    "shelter_number": "65074",
+    "adress": "м. Ріне-21 (с. Городок)",
+    "shelter_limit": "1200",
+    "shelter_year": "1990",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 195,
+    "shelter_number": "65076",
+    "adress": "м. Рівне, вул. Небесної Сотні, 64",
+    "shelter_limit": "40",
+    "shelter_year": "1990",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 196,
+    "shelter_number": "67800",
+    "adress": "м. Рівне,вул. Соборна,15",
+    "shelter_limit": "100",
+    "shelter_year": "1958",
+    "status": "Не готова",
+    "type_shelter": "Бомбосховища"
+  },
+  {
+    "shelter_id": 197,
+    "shelter_number": "67879",
+    "adress": "м. Рівне,вул. Симона Петлюри,14а",
+    "shelter_limit": "",
+    "shelter_year": "",
+    "status": "",
+    "type_shelter": "Бомбосховища"
+  }
+]
