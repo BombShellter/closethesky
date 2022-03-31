@@ -1,7 +1,6 @@
 import React from "react";
 import { Button, Nav, Navbar } from "react-bootstrap";
 import logo from "../../assets/logo.png";
-
 const NavBar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
