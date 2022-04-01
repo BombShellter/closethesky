@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/closethesky/static/css/main.a53b0184.css",
+    "main.js": "/closethesky/static/js/main.5b2d4b0c.js",
+    "static/media/logo.png": "/closethesky/static/media/logo.3d7b14f248ea4c75399a.png",
+    "index.html": "/closethesky/index.html",
+    "main.a53b0184.css.map": "/closethesky/static/css/main.a53b0184.css.map",
+    "main.5b2d4b0c.js.map": "/closethesky/static/js/main.5b2d4b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53b0184.css",
+    "static/js/main.5b2d4b0c.js"
+  ]
+}
