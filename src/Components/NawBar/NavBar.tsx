@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Nav, Navbar } from "react-bootstrap";
 import logo from "../../assets/logo.png";
-
+import { NavLink } from "react-router-dom";
 const NavBar = () => {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
@@ -11,11 +11,14 @@ const NavBar = () => {
       <Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="me-auto">
-          <Nav.Link href="/">Головна</Nav.Link>
-          <Nav.Link href="/shelters">Сховища поблизу</Nav.Link>
-          <Nav.Link href="/rules">Правила</Nav.Link>
+          <NavLink className="nav-link" to="/">
+            Головна
+          </NavLink>
+          <NavLink className="nav-link" to="/shelters">
+            Сховища поблизу
+          </NavLink>
+          <NavLink className="nav-link" to="/rules">Правила</NavLink>
         </Nav>
-
         <Nav>
           <Button className="log" variant="warning">
             Login
