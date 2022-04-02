@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "../../assets/logo.png";
 
+
 const Homepage = () => {
   return (
     <div className="homepage">
