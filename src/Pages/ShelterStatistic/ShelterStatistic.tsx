@@ -13,7 +13,7 @@ const ShelterStatistic = () => {
     axios
       .get("https://warm-beach-56088.herokuapp.com/db")
       .then((response) => {
-        setItem(response.data[2]);
+        setItem(response.data[7]);
       })
       .catch((e) => console.error(e));
   }, []);

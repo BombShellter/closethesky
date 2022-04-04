@@ -33,3 +33,9 @@
 .listItem img {
   height: 50px;
 }
+
+@media (max-width: 768px) {
+  .listContainer {
+    width: 90%;
+  }
+}
