@@ -9,8 +9,6 @@ import Layout from "./Components/Layout/layout";
 
 
 function App() {
-
-
   return (
     <>
       <Routes>
@@ -25,8 +23,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-

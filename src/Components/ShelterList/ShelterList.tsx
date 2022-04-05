@@ -28,12 +28,10 @@ function ShelterList() {
 
  function enterListElement (event:any){
      event.currentTarget.classList.add(s.active)
-  
  }
 
  function leaveListElement (event:any){
      event.currentTarget.classList.remove(s.active)
- 
  }
 
     return (
