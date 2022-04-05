@@ -7,6 +7,7 @@ import Shelters from "./Pages/Shelters/Shelters";
 import Rules from "./Pages/Rules/Rules";
 import Layout from "./Components/Layout/layout";
 
+
 function App() {
   return (
     <>
