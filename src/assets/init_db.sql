@@ -206,3 +206,4 @@ INSERT INTO list_of_shelters (shelter_id, shelter_number, adress, shelter_limit,
 INSERT INTO list_of_shelters (shelter_id, shelter_number, adress, shelter_limit, shelter_year, status, type_shelter ) VALUES (196,	'67800',	'м. Рівне,вул. Соборна,15',	'100',	'1958',	'Не готова',	'Бомбосховища');
 INSERT INTO list_of_shelters (shelter_id, shelter_number, adress, shelter_limit, shelter_year, status, type_shelter ) VALUES (197,	'67879',	'м. Рівне,вул. Симона Петлюри,14а',	'',	'',	'',	'Бомбосховища');
 
+

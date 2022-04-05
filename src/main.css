@@ -56,9 +56,21 @@ ol[class] {
 a:not([class]) {
   text-decoration-skip-ink: auto;
 }
+a{
+  text-decoration: none;
+  margin-right: 10px;
+  color:rgb(207, 200, 200)
+   
+}
+
 
 /* Упрощаем работу с изображениями */
 img {
   max-width: 100%;
   display: block;
+}
+
+.active {
+  color: rgb(207, 200, 200)
+
 }
