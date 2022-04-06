@@ -8,6 +8,7 @@ import Rules from "./Pages/Rules/Rules";
 import Layout from "./Components/Layout/layout";
 import ShelterStatistic from "./Pages/ShelterStatistic/ShelterStatistic";
 
+
 function App() {
   return (
     <>
