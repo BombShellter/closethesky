@@ -45,7 +45,15 @@ function ShelterList() {
                 onMouseEnter={enterListElement}
                 onMouseLeave={leaveListElement}
               >
-                <Link to={`/shelters/shelter-statistic/`}>
+                {/* <Link to={`/shelters/shelter-statistic/${shelter.shelter_id}`}>
+                  {`№ ${shelter.shelter_number}`} - {`Адрес: ${shelter.adress}`}
+                </Link> */}
+                <Link
+                  to={{
+                    pathname: `/shelters/shelter-statistic/${shelter.shelter_id}`,
+                    // state: { currentShelters: shelter },
+                  }}
+                >
                   {`№ ${shelter.shelter_number}`} - {`Адрес: ${shelter.adress}`}
                 </Link>
               </ListGroup.Item>

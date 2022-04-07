@@ -8,7 +8,6 @@ import Rules from "./Pages/Rules/Rules";
 import Layout from "./Components/Layout/layout";
 import ShelterStatistic from "./Pages/ShelterStatistic/ShelterStatistic";
 
-
 function App() {
   return (
     <>
@@ -17,7 +16,7 @@ function App() {
           <Route index element={<Homepage />} />
           <Route path="/shelters" element={<Shelters />} />
           <Route
-            path="/shelters/shelter-statistic"
+            path="/shelters/shelter-statistic/:id"
             element={<ShelterStatistic />}
           />
           <Route path="/rules" element={<Rules />} />

@@ -6,31 +6,33 @@ import happy from "../../assets/happy.png";
 import confused from "../../assets/confused.png";
 import cry from "../../assets/cry.png";
 
-const ShelterStatistic = () => {
-  const [item, setItem] = useState(Object);
+const ShelterStatistic = (props: any) => {
+  // const [item, setItem] = useState(Object);
+  console.log(props);
 
-  useEffect(() => {
-    axios
-      .get("https://warm-beach-56088.herokuapp.com/db")
-      .then((response) => {
-        setItem(response.data[7]);
-      })
-      .catch((e) => console.error(e));
-  }, []);
+  // useEffect(() => {
+  //   axios
+  //     .get("https://warm-beach-56088.herokuapp.com/db")
+  //     .then((response) => {
+  //       setItem(response.data[8]);
+  //     })
+  //     .catch((e) => console.error(e));
+  // }, []);
 
   return (
     <Container className={style.container}>
       <h2 className={style.title}>
-        Статистика по сховищу № {item.shelter_number}
+        Статистика по сховищу № {props.shelter_number}
       </h2>
       <h4 className={style.subtitle}>
-        Адресу: <strong> &nbsp; {item.adress}</strong>
+        Адресу: <strong> &nbsp; {props.adress}</strong>
       </h4>
       <h4 className={style.subtitle}>
-        Загальний стан по оцінці комісії: <strong> &nbsp; {item.status}</strong>
+        Загальний стан по оцінці комісії:{" "}
+        <strong> &nbsp; {props.status}</strong>
       </h4>
       <h4 className={style.subtitle}>
-        Місткість сховища: <strong> &nbsp; {item.shelter_limit}</strong>
+        Місткість сховища: <strong> &nbsp; {props.shelter_limit}</strong>
       </h4>
       <ListGroup className={style.listContainer}>
         <ListGroup.Item className={style.listItem} variant="success">
