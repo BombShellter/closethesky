@@ -8,7 +8,7 @@ import cry from "../../assets/cry.png";
 
 const ShelterStatistic = (props: any) => {
   // const [item, setItem] = useState(Object);
-  console.log(props);
+  console.log(props.location);
 
   // useEffect(() => {
   //   axios

@@ -4,6 +4,7 @@ import { Button } from "react-bootstrap";
 import ListGroup from "react-bootstrap/ListGroup";
 import s from "./ShelterList.module.css";
 import { Link } from "react-router-dom";
+import ShelterStatistic from "../../Pages/ShelterStatistic/ShelterStatistic";
 
 function ShelterList() {
   const [shelter, setShelter] = useState([]);
@@ -55,6 +56,7 @@ function ShelterList() {
                   }}
                 >
                   {`№ ${shelter.shelter_number}`} - {`Адрес: ${shelter.adress}`}
+                  {/* <ShelterStatistic /> */}
                 </Link>
               </ListGroup.Item>
             ))}
